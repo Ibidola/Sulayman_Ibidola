@@ -1,4 +1,4 @@
-## Hi there, I'm Sulayman_Ibidola 👋
+## Hi, I'm Sulayman_Ibidola 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -14,11 +14,8 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy Reading Novels, Making Reasearch and Cooking. I love the "aha!" moment when data reveals something new and useful.
+I am a Detail-oriented and analytical Data Analyst with strong proficiency in Microsoft Excel and Power BI. I am Experienced in data cleaning, transformation, and visualization, with the ability to handle large datasets and generate actionable insights. 
+Adept at using data to support decision-making and improve performance. Currently expanding expertise in SQL and advanced analytics techniques.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://Ibidola.github.io/)
