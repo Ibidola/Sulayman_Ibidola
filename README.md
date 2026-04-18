@@ -1,4 +1,4 @@
-## Hi, I'm Sulayman_Ibidola 👋
+## Hi, I'm Sulayman Ibidola 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -24,7 +24,6 @@ Adept at using data to support decision-making and improve performance. Currentl
 - **Project A:** Sales Analysis using PowerBI
 - **Project B:** Healthcare Analysis dashboard in Power BI.
 - **Project C:** Comparative Analysis of The Nigeria Real Estate Market
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
 
